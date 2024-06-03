@@ -1,0 +1,9 @@
+name: fullproject  # Change this to your desired environment name
+prefix: ./env
+dependencies:
+  - python=3.8  # Replace with the appropriate Python version
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  # Add other dependencies as needed
