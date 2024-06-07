@@ -7,5 +7,9 @@ catboost
 xgboost
 Flask
 
+# mysql libraries
+python-dotenv
+mysql-connector-python 
+pymysql
 
 #-e .
